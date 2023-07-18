@@ -1,6 +1,6 @@
-# Juan David Carreño Galvis 👋
+# Juan David Carreño Galvis 
 
-## Quién soy
+## Quién soy 👋
 ¡Hola! Soy Juan David Carreño Galvis, un estudiante de Matemáticas apasionado por la programación y especializado como Full Stack Developer. Con experiencia en JavaScript, Node.js, PostgreSQL, Express, Sequelize, React, Next.js, Redux, CSS y HTML, ofrezco una combinación única de conocimientos técnicos y habilidades analíticas.
 
 ## Qué hago  👀
