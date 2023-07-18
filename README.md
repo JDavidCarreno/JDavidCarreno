@@ -44,6 +44,7 @@ I'm seeking exciting and challenging opportunities to continue growing as a Full
 - PostgreSQL
 - Express.js
 - Sequelize
+- Prisma
 - React.js
 - Next.js
 - Redux
