@@ -50,6 +50,7 @@ I'm seeking exciting and challenging opportunities to continue growing as a Full
 - Redux
 - CSS
 - HTML
+- Git
 
 ## How to Reach Me 📞
 - LinkedIn: [juan-david-carreño-galvis](https://www.linkedin.com/in/juan-david-carre%C3%B1o-galvis-90286a26a/)
