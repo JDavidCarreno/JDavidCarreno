@@ -30,7 +30,7 @@ Estoy buscando oportunidades emocionantes y desafiantes para seguir creciendo co
 # Juan David Carreño Galvis 👨‍💻
 
 ## About Me ℹ️
-Hello! I'm Juan David Carreño Galvis, a Mathematics student with a passion for programming and specialized as a Full Stack Developer. With experience in JavaScript, Node.js, PostgreSQL, Express, Sequelize, React, Next.js, Redux, CSS, and HTML, I offer a unique blend of technical knowledge and analytical skills.
+Hello! I'm Juan David Carreño Galvis, a Full Stack developer and Mathematics student with a passion for programming. With experience in JavaScript, Node.js, PostgreSQL, Express, Sequelize, React, Next.js, Redux, CSS, and HTML, I offer a unique blend of technical knowledge and analytical skills.
 
 ## What I Do 💼
 As a Full Stack Developer, I specialize in developing efficient and scalable web applications. I thrive on solving complex problems, collaborating in teams, and communicating effectively. With a rigorous approach and creative thinking, I tackle challenges with innovative solutions.
